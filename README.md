@@ -17,7 +17,6 @@ I'm a passionate developer who enjoys building robust applications and exploring
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" />
 </p>
 
