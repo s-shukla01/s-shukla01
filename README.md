@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 👯 I’m looking to collaborate on **Full Stack Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
-- 📫 Reach me at: **[Your Email/LinkedIn]**
+- 📫 Reach me at: **devishankar40@gmail.com**
 
 ---
 
