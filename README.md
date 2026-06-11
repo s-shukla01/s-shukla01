@@ -1,3 +1,37 @@
+# 💫 Hi 👋, I'm Devi Shankar Shukla
+
+**A passionate Software Developer || Java Developer || Full Stack Web Developer from India 🇮🇳**
+
+Email Me 👉 ✉️ **[shankarshukla001@gmail.com](mailto:shankarshukla001@gmail.com)** for Collaboration, Projects, Tech Discussions, or Opportunities. 😊
+
+* 🔭 **I’m currently working on:** Improving my Data Structures & Algorithms (DSA) skills and Full Stack Web Development projects.
+* 🌱 **I’m currently learning:** Java, Spring Boot, Data Structures & Algorithms, React.js, and Backend Development.
+* 👯 **I’m looking to collaborate on:** Java, Spring Boot, Web Development, and Open Source Projects.
+* 🤔 **I’m looking for help with:** System Design, Cloud Technologies, and Advanced Backend Development.
+* 💬 **Ask me about:** Java, DSA, Spring Boot, Web Development, Git, and GitHub.
+* 📫 **How to reach me:** [shankarshukla001@gmail.com](mailto:shankarshukla001@gmail.com)
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** I enjoy solving coding problems and building real-world applications while continuously learning new technologies. 🚀
+
+## 💻 Tech Stack
+
+* Java
+* Spring Boot
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* MySQL
+* Git & GitHub
+
+## 🎯 Current Goals
+
+* Master Data Structures & Algorithms
+* Become proficient in Spring Boot
+* Build Full Stack Projects
+* Prepare for Software Development Engineer (SDE) roles
+
+⭐ **"Code, Learn, Build, Repeat."**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devishankar-shukla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankarshukla001@gmail.com) 
